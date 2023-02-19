@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abdullah Sayed
+- 👋 Hi, I’m Abdallah Sayed
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-End Development Path
 - 💞️ I’m looking to collaborate on any Ptoject will be helpful for human
-- 📫 Reach me on twitter:https://twitter.com/abdufrontend
+- 📫 Reach me on twitter:https://twitter.com/_AbdallahSayed
